@@ -7,9 +7,3 @@
 - **Pourquoi c'est utile pour un développeur web** : c'est utile car il est possible que nous travaillerons avec des données qui néssesiterons une protection.
 - **Ce que je vais faire ou vérifier** : je vérifirais mes mots de passe
 
-## 06/11/2026 — Titre court du sujet
-
-- **Source** : [titre de la page](adresse) — site ou auteur (en anglais si possible)
-- **Ce que j'ai appris** : deux ou trois phrases, avec vos mots.
-- **Pourquoi c'est utile pour un développeur web** : une phrase.
-- **Ce que je vais faire ou vérifier** : une action concrète (réglage, habitude, lecture).
