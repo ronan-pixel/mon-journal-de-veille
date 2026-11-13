@@ -11,3 +11,9 @@ lien 4
 - **Pourquoi c'est utile pour un développeur web** : c'est utile car il est possible que nous travaillerons avec des données qui néssesiterons une protection.
 - **Ce que je vais faire ou vérifier** : je vérifirais mes mots de passe
 
+## 13/11/2026 — Titre court du sujet
+
+- **MDN** : [Baseline (compatibility)](https://developer.mozilla.org/en-US/docs/Glossary/Baseline/Compatibility) — MDN
+- **Ce que j'ai appris** : Baseline indique le compatibilité des propriétées avec les moteurs de recherches.
+- **Pourquoi c'est utile pour un développeur web** : c'est utile car il faut savoir ce qui est compatible ou non pour pouvoir savoir quoi utiliser ou non.
+- **Ce que je vais faire ou vérifier** : consulter la documentation pour savoir ce qui est toujours compatible ou pas.
