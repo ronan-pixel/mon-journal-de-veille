@@ -17,3 +17,10 @@ lien 4
 - **Ce que j'ai appris** : Baseline indique le compatibilité des propriétées avec les moteurs de recherches.
 - **Pourquoi c'est utile pour un développeur web** : c'est utile car il faut savoir ce qui est compatible ou non pour pouvoir savoir quoi utiliser ou non.
 - **Ce que je vais faire ou vérifier** : consulter la documentation pour savoir ce qui est toujours compatible ou pas.
+## 20/11/2026 — Titre court du sujet
+
+- **GitHub** : [Change Array by copy](https://github.com/tc39/notes/blob/HEAD/meetings/2023-01/jan-30.md#change-array-by-copy) — GitHub, Ashley Claymore
+- **Ce que j'ai appris** : la méthode a été publiée en 2023 , avec toReversed, toSpliced et with, la liste a été vérifiée le 10/11/2026.
+- **Pourquoi c'est utile pour un développeur web** : la méthode est utile pour faire du tris.
+- **Ce que je vais faire ou vérifier** : .
+
